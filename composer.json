@@ -1,0 +1,15 @@
+{
+    "name": "padaliyajay/font-class-extractor",
+    "require": {
+        "sabberworm/php-css-parser": "^8.2"
+    },
+    "authors": [
+        {
+            "name": "Jay padaliya"
+        }
+    ],
+    "autoload":{
+            "psr-4": {"Padaliyajay\\FontClassExtractor\\": "src"}
+    },
+    "license": "MIT"
+}
