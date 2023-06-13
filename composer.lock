@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "sabberworm/php-css-parser",
-            "version": "8.2.0",
+            "version": "8.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sabberworm/PHP-CSS-Parser.git",
-                "reference": "8be357d90c29c2f6dd426be4cb60bf09ef6d0120"
+                "reference": "cbff48ef7ccc109ccd2901990d29f55cc2135668"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sabberworm/PHP-CSS-Parser/zipball/8be357d90c29c2f6dd426be4cb60bf09ef6d0120",
-                "reference": "8be357d90c29c2f6dd426be4cb60bf09ef6d0120",
+                "url": "https://api.github.com/repos/sabberworm/PHP-CSS-Parser/zipball/cbff48ef7ccc109ccd2901990d29f55cc2135668",
+                "reference": "cbff48ef7ccc109ccd2901990d29f55cc2135668",
                 "shasum": ""
             },
             "require": {
@@ -48,7 +48,11 @@
                 "parser",
                 "stylesheet"
             ],
-            "time": "2018-07-13T13:23:56+00:00"
+            "support": {
+                "issues": "https://github.com/sabberworm/PHP-CSS-Parser/issues",
+                "source": "https://github.com/sabberworm/PHP-CSS-Parser/tree/8.2.1"
+            },
+            "time": "2020-06-01T09:09:33+00:00"
         }
     ],
     "packages-dev": [],
@@ -58,5 +62,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
 }
